@@ -1,12 +1,13 @@
 # 🔧 6-Cylinder Radial Engine – SolidWorks Assembly
 
-This project presents a high-precision mechanical design of a **6-cylinder radial engine**, developed using **SolidWorks** and documented with a full Bill of Materials (BOM), section views, and part callouts. The engine is designed for **pneumatic operation** and follows standard mechanical tolerancing practices.
+**6-Cylinder Radial Engine – CAD Modeling & Mechanical Drafting**
+Completed a full CAD design and assembly of a 6-cylinder radial engine as a hands-on project to demonstrate mechanical drafting skills. Created detailed part drawings, dimensioned orthographic views, and assembly constraints using **SolidWorks**. Focused on proper tolerancing, part fit, and clear layout for manufacturing readability. This project showcases my ability to produce engineering-ready drawings and understand assembly logic — building a foundation for a CAD designer or mechanical drafting role.
 
 ---
 
 ## 📄 Overview
 
-- **Project Title:** Miniature Model Engine (Pneumatic)
+- **Project Title:** Miniature Model Engine 
 - **Engine Type:** 6-Cylinder Radial
 - **CAD Tool:** SolidWorks (original), exported as PDF
 - **Designed By:** Sudip Neupane
